@@ -1,0 +1,17 @@
+2026/09/07-06:06:43.464 7ae Creating DB /app/backend/data/wa_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2026/09/07-06:06:43.473 7ae Reusing MANIFEST /app/backend/data/wa_session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/09/07-06:06:43.609 7b1 Level-0 table #5: started
+2026/09/07-06:06:43.611 7b1 Level-0 table #5: 6841 bytes OK
+2026/09/07-06:06:43.612 7b1 Delete type=0 #3
+2026/09/07-06:06:43.613 7ae Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/07-06:06:43.831 7b1 Level-0 table #7: started
+2026/09/07-06:06:43.834 7b1 Level-0 table #7: 1850 bytes OK
+2026/09/07-06:06:43.835 7b1 Delete type=0 #4
+2026/09/07-06:06:43.836 7ae Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/09/07-06:06:43.836 7ae Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 571 : 1
+2026/09/07-06:06:43.836 7ae Compacting 1@1 + 1@2 files
+2026/09/07-06:06:43.838 7ae Generated table #8@1: 9 keys, 416 bytes
+2026/09/07-06:06:43.838 7ae Compacted 1@1 + 1@2 files => 416 bytes
+2026/09/07-06:06:43.839 7ae compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/09/07-06:06:43.840 7ae Delete type=2 #7
+2026/09/07-06:06:43.840 7ae Manual compaction at level-1 from '\x00\x03\x00\x00\x05' @ 571 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

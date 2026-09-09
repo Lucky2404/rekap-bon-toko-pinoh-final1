@@ -1,0 +1,15 @@
+node_modules
+frontend/node_modules
+frontend/build
+.git
+*.log
+__pycache__
+*.pyc
+.env
+.env.*
+backend/data/wa_session
+backend/data/backups
+backend/data/uploads
+*.db
+*.sqlite
+*.sqlite3
